@@ -1,64 +1,9 @@
 # Práctica 1 – Ciclismo 🏁
 ## Taller de Herramientas de Programación (THP) – ORT Argentina
 
-Este repositorio contiene la resolución de la **Práctica 1 / Primer Parcial** de la materia **Taller de Herramientas de Programación**, desarrollada en **Java**, aplicando **lógica estructurada**, validaciones y corrección de errores según la consigna.
+Este repositorio contiene la resolución del **Primer Parcial** de la materia **Taller de Herramientas de Programación**, desarrollada en **Java**, aplicando **lógica estructurada**, validaciones y corrección de errores según la consigna.
 
 ---
-
-## 📌 Enunciado (resumen)
-
-En una competencia de ciclismo de montaña participan ciclistas en distintas rutas.
-
-### Por cada ruta se registra:
-- Nombre de la ruta
-- Grado de dificultad (Bajo / Medio / Alto)
-- Cantidad de ciclistas
-
-### Por cada ciclista:
-- Nombre
-- Si terminó o no la carrera
-- Tiempo de recorrido (si terminó)
-- Cantidad de agua consumida (si terminó)
-
-### El programa calcula:
-- Total de agua consumida por ruta
-- Promedio de tiempo total
-- Cantidad de rutas sin abandonos
-- Ciclista más rápido por ruta
-- Ciclista con mayor consumo de agua
-- Porcentaje de rutas por dificultad
-
----
-
-## 🧩 Diagramas Nassi–Shneiderman
-
-A continuación se presentan los diagramas **Nassi–Shneiderman**, utilizados como base para el diseño y la implementación del programa en Java.
-
-### 🔹 Flujo principal – Parte 1
-![ns-java-parte-1](https://github.com/user-attachments/assets/57624b52-873a-4e90-a044-f30eb4a61536)
-
-### 🔹 Flujo principal – Parte 2
-![ns-java-parte-2](https://github.com/user-attachments/assets/efd0f4c4-5e99-4f7d-a9d8-051a1b5218b0)
-
-
-### 🔹 Flujo principal – Parte 3
-![ns-java-parte-3](https://github.com/user-attachments/assets/c7222712-e67d-4daf-a002-351b03423e20)
-
-
-### 🔹 Flujo principal – Parte 4
-![ns-java-parte-4](https://github.com/user-attachments/assets/27b9a941-03d2-436e-a3c0-83ed984715a6)
-
-
----
-
-## 💻 Implementación en Java
-
-La solución fue implementada en Java respetando:
-- Validación de datos de entrada
-- Uso de constantes
-- Control de flujo con estructuras repetitivas y condicionales
-- Cálculo de estadísticas acumuladas
-
 
 ---
 
@@ -121,6 +66,34 @@ La solución entregada incluía un código incompleto con errores.
 - Identificación del ciclista con mayor consumo de agua.
 - Validación del grado de dificultad de cada ruta.
 - Cálculo del porcentaje de rutas por grado de dificultad.
+
+---
+
+
+## 💻 Implementación en Java
+
+La solución fue implementada en Java respetando:
+- Validación de datos de entrada
+- Uso de constantes
+- Control de flujo con estructuras repetitivas y condicionales
+- Cálculo de estadísticas acumuladas
+
+
+---
+
+## 🧩 Diagramas Nassi–Shneiderman
+
+A continuación se presentan los diagramas **Nassi–Shneiderman**, utilizados como base para el diseño y la implementación del programa en Java.
+
+### 🔹 Flujo 
+![ns-java-parte-1](https://github.com/user-attachments/assets/57624b52-873a-4e90-a044-f30eb4a61536)
+
+![ns-java-parte-2](https://github.com/user-attachments/assets/efd0f4c4-5e99-4f7d-a9d8-051a1b5218b0)
+
+![ns-java-parte-3](https://github.com/user-attachments/assets/c7222712-e67d-4daf-a002-351b03423e20)
+
+![ns-java-parte-4](https://github.com/user-attachments/assets/27b9a941-03d2-436e-a3c0-83ed984715a6)
+
 
 ---
 
