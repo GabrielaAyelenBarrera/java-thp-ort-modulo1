@@ -5,7 +5,7 @@ Este repositorio contiene la resolución del **Primer Parcial** de la materia **
 
 ---
 
-## 📄 Enunciado del ejercicio (completo)
+## 📄 Enunciado del ejercicio
 
 En una competición de ciclismo de montaña, varios ciclistas participan en distintas rutas.  
 Cada ciclista compite únicamente en una ruta, aunque en cada una pueden participar varios ciclistas al mismo tiempo.
@@ -57,7 +57,7 @@ La solución entregada incluía un código incompleto con errores.
 - Se solucionó el problema que impedía continuar la carga aun ingresando valores válidos.
 - Se corrigió el cálculo del promedio de tiempos, que siempre devolvía cero.
 
-> Para la detección de errores se utilizó el **debugger** y el seguimiento del flujo de ejecución.
+> Para la detección de errores se utilizó el **debugger** y la consola de Eclipse, analizando el flujo de ejecución del programa.
 
 ### ✨ Nuevas funcionalidades
 - Identificación del ciclista más rápido por ruta.
@@ -81,9 +81,9 @@ La solución fue implementada en Java respetando:
 
 ## 🧩 Diagramas Nassi–Shneiderman
 
-A continuación se presentan los diagramas **Nassi–Shneiderman**, utilizados como base para el diseño y la implementación del programa en Java.
+A continuación se presenta el diagrama **Nassi–Shneiderman**, utilizados como base para el diseño lógico y la posterior implementación del programa en Java.
 
-### 🔹 Flujo 
+### 🔹 Flujo principal del programa
 ![ns-java-parte-1](https://github.com/user-attachments/assets/57624b52-873a-4e90-a044-f30eb4a61536)
 
 ![ns-java-parte-2](https://github.com/user-attachments/assets/efd0f4c4-5e99-4f7d-a9d8-051a1b5218b0)
