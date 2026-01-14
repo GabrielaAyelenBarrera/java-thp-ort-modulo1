@@ -5,8 +5,6 @@ Este repositorio contiene la resolución del **Primer Parcial** de la materia **
 
 ---
 
----
-
 ## 📄 Enunciado del ejercicio (completo)
 
 En una competición de ciclismo de montaña, varios ciclistas participan en distintas rutas.  
