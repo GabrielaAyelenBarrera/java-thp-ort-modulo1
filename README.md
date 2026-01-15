@@ -1,7 +1,8 @@
 # Módulo 1 – Ciclismo 🏁
 ## Taller de Herramientas de Programación (THP) – ORT Argentina
 
-Este repositorio contiene la resolución del **Primer Parcial** de la materia **Taller de Herramientas de Programación**, desarrollada en **Java**, aplicando **lógica estructurada**, validaciones y corrección de errores según la consigna.
+Este repositorio contiene la resolución del **Primer Parcial** de la materia **Taller de Herramientas de Programación**, desarrollada en **Java**, aplicando **programación estructurada**, con uso de variables, constantes, contadores y acumuladores, validaciones y corrección de errores, **sin utilización de Programación Orientada a Objetos**, según la consigna.
+
 
 ---
 
@@ -34,14 +35,12 @@ El objetivo del programa es **registrar la información de las rutas y los cicli
 
 ## 📊 Estadísticas solicitadas
 
-El programa debe calcular y mostrar:
+El programa calcula y muestra:
 
 - Para cada ruta, el total de agua consumida por los ciclistas que finalizaron la carrera.
-- El promedio de tiempo de todos los ciclistas que completaron la carrera.
+- El promedio de tiempo de todos los ciclistas que completaron la carrera en todas las rutas.
 - La cantidad de rutas donde ningún ciclista abandonó.
-- El ciclista más rápido por ruta (excluyendo abandonos).
-- El ciclista con mayor consumo de agua entre todas las rutas.
-- El porcentaje de rutas según su grado de dificultad.
+
 
 ---
 
@@ -57,7 +56,8 @@ La solución entregada incluía un código incompleto con errores.
 - Se solucionó el problema que impedía continuar la carga aun ingresando valores válidos.
 - Se corrigió el cálculo del promedio de tiempos, que siempre devolvía cero.
 
-> Para la detección de errores se utilizó el **debugger** y la consola de Eclipse, analizando el flujo de ejecución del programa.
+> Para la detección y corrección de errores se utilizó el depurador (debugger) y la consola de Eclipse, realizando un seguimiento del flujo de ejecución del programa.
+
 
 ### ✨ Nuevas funcionalidades
 - Identificación del ciclista más rápido por ruta.
@@ -66,7 +66,15 @@ La solución entregada incluía un código incompleto con errores.
 - Cálculo del porcentaje de rutas por grado de dificultad.
 
 ---
+🧠 Conceptos aplicados
 
+Durante la resolución del ejercicio se aplicaron:
+
+- Uso de contadores y acumuladores.
+- Cálculo de máximos y mínimos.
+- Validaciones de datos ingresados por teclado.
+- Control del flujo mediante estructuras condicionales y repetitivas.
+---
 
 ## 💻 Implementación en Java
 
