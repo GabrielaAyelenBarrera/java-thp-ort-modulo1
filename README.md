@@ -1,7 +1,7 @@
 # Módulo 1 – Ciclismo 🏁
 **Taller de Herramientas de Programación (THP) – ORT Argentina**
 
-Este repositorio contiene la resolución del **Primer Parcial** de la materia **Taller de Herramientas de Programación**, desarrollado en **Java**, aplicando **programación estructurada**, con uso de variables, constantes, contadores y acumuladores, validaciones y corrección de errores, **sin utilización de Programación Orientada a Objetos**, según la consigna.
+Este repositorio contiene la resolución del **Primer Parcial** de la materia **Taller de Herramientas de Programación**, desarrollado en **Java**, aplicando **programación estructurada**, con uso de variables, constantes, contadores y acumuladores, validaciones y corrección de errores(**sin utilización de Programación Orientada a Objetos**), según la consigna.
 
 ---
 
