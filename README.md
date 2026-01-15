@@ -98,8 +98,8 @@ A continuación se presenta el diagrama **Nassi–Shneiderman**, utilizados como
 
 ### 🔹 Flujo principal del programa
 <img width="1130" height="721" alt="image" src="https://github.com/user-attachments/assets/7526d7d3-2f0f-4eef-a265-5c1a4523f5f1" />
-<img width="1126" height="722" alt="image" src="https://github.com/user-attachments/assets/0427ba70-a0df-4ebe-b22b-4fe8a2735af9" />
-<img width="1123" height="726" alt="image" src="https://github.com/user-attachments/assets/6c68be64-8bdd-48ac-bcf8-4de455a2f8a7" />
+<img width="1133" height="718" alt="image" src="https://github.com/user-attachments/assets/87a1aec8-74bd-4bbe-8c3b-47159ade4dad" />
+<img width="1133" height="719" alt="image" src="https://github.com/user-attachments/assets/063e2a35-d3c0-4778-a496-6979aff17e39" />
 <img width="1130" height="334" alt="image" src="https://github.com/user-attachments/assets/0668ee18-9ef4-42bc-8f04-b9d4dc748639" />
 
 ---
